@@ -1,0 +1,6 @@
+{
+  "name": "HIMOYACHI",
+  "description": "Professional cybersecurity & antivirus protection app with real application scanning, phishing detection, permission audit, and emergency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
